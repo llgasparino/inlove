@@ -1,0 +1,46 @@
+/* Fundo sutil e centralização */
+.carousel-container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    text-align: center;
+}
+
+/* Estilo do título */
+.title {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Estilo da foto do carrossel */
+.carousel-photo {
+    width: 80%;
+    height: 50%;
+    border-radius: 10px;
+    margin: auto;
+}
+
+/* Estilo da legenda */
+.caption {
+    font-size: 1rem;
+    color: #555;
+    margin-top: 8px;
+}
+
+/* Estilo da seção de informações */
+.info {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #333;
+}
+
+/* Fundo geral */
+body {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    font-family: Arial, sans-serif;
+}
+
